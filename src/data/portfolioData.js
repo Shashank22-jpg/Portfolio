@@ -50,7 +50,7 @@ export const portfolioData = {
       description: "An AI-powered travel planning web application that generates personalized trip plans based on destination, budget, duration, and travel preferences. Features budget estimation, transportation selection, and best-season suggestions.",
       technologies: ["AI", "JavaScript", "React.js", "Vite", "Vercel"],
       githubUrl: "https://github.com/Shashank22-jpg/AI-Travel-Budget-Planner",
-      liveUrl: "https://github.com/Shashank22-jpg/AI-Travel-Budget-Planner",
+      liveUrl: "https://ai-travel-budget-planner.vercel.app/",
       featured: true
     },
     {
