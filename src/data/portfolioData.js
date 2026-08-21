@@ -59,7 +59,7 @@ export const portfolioData = {
       description: "A responsive web application that allows users to search GitHub profiles and view developer statistics, repositories, follower counts, and real-time contribution data via GitHub REST API.",
       technologies: ["React.js", "JavaScript", "Vite", "GitHub REST API"],
       githubUrl: "https://github.com/Shashank22-jpg/github-profile-finder",
-      liveUrl: "https://github.com/Shashank22-jpg/github-profile-finder",
+      liveUrl: "https://github-profile-finder-pvab.vercel.app/",
       featured: true
     },
     {
